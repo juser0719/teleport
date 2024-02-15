@@ -1,4 +1,4 @@
-module github.com/gravitational/teleport/build.assets/tooling
+module github.com/juser0719/teleport/build.assets/tooling
 
 go 1.21
 

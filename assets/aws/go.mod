@@ -1,4 +1,4 @@
-module github.com/gravitational/teleport-ami-update
+module github.com/juser0719/teleport-ami-update
 
 go 1.19
 
